@@ -1,4 +1,4 @@
-#!/workspaces/ShansBot/myenv/bin/python3
+#!/workspaces/ShansBot/myenv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
