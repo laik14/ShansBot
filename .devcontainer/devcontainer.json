@@ -1,0 +1,11 @@
+{
+    "name": "My Environment",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "workspaceFolder": "/workspace",
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "postCreateCommand": "source myenv/bin/activate"
+}
